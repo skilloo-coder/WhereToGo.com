@@ -7,7 +7,7 @@
 
 .container{
   width: 100vw;
-  height: 20%;
+  height: 15%;
   background: #42455a;
   font-size: 15px;
   position:sticky;
@@ -17,12 +17,12 @@
 
 .menu ul{
   display: inline-flex;
-  margin: 40px;
+  margin: 15px;
 }
 
 .menu ul li{
   list-style: none;
-  margin: 0px 5px;
+  margin: 0px 4px;
   color: #A7A7A7;
 }
 
@@ -43,18 +43,18 @@
 }
 
  .menu span{
-   margin-right:10px;
+   margin-right:3px;
    
    border: 2px solid #EE3B3B;
    border-radius: 25px;
-   padding: 8px 16px;
+   padding: 5px 10px;
    color:  #08DCFF;
   
  }
  
  
  section{
-   width: 93.4%;
+   width: 100vw;
    height:80%;
    justify-content: center;
    background: url('ph3.jpeg') rgba(0,0,0,0.5);
