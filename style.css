@@ -9,7 +9,7 @@
   width: 100vw;
   height: 20%;
   background: #42455a;
-  font-size: 25px;
+  font-size: 15px;
   position:sticky;
   top: 0;
   
@@ -22,7 +22,7 @@
 
 .menu ul li{
   list-style: none;
-  margin: 0px 10px;
+  margin: 0px 5px;
   color: #A7A7A7;
 }
 
@@ -54,7 +54,7 @@
  
  
  section{
-   width: 94.4%;
+   width: 93.4%;
    height:80%;
    justify-content: center;
    background: url('ph3.jpeg') rgba(0,0,0,0.5);
@@ -71,7 +71,7 @@
  section .text{
    
 padding-top: 20px;
-   font-size: 40px;
+   font-size: 35px;
   
    justify-content: center;
    
