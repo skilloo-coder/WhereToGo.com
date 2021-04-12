@@ -43,11 +43,11 @@
 }
 
  .menu span{
-   margin-right:3px;
+   margin-right:2px;
    
    border: 2px solid #EE3B3B;
    border-radius: 25px;
-   padding: 5px 10px;
+   padding: 2.4px 5.4px;
    color:  #08DCFF;
   
  }
@@ -62,16 +62,16 @@
    background-position: center;
   display: block;
    border-bottom: 20px solid #42455a;
-   border-left: 20px solid #42455a;
-   border-right: 20px solid #42455a;
+   border-left: 2px solid #42455a;
+   border-right: 2px solid #42455a;
    list-style: none;
-   padding-left: 15px;
+   padding-left:5px;
  }
  
  section .text{
    
-padding-top: 20px;
-   font-size: 35px;
+padding-top: 10px;
+   font-size: 20px;
   
    justify-content: center;
    
